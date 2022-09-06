@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-h1kvj2gb70)
 - Live Site URL: [Live site at Netlify](https://auriga-testimonials-grid.netlify.app/)
 
 ## My process
